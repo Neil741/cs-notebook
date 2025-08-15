@@ -23,7 +23,7 @@ https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7
 - Hash Table
 - String
 - Array and Matrix
-283\. Move Zeroes (Easy)
+  - 283\. Move Zeroes (Easy)
 
 [Leetcode](https://leetcode.com/problems/move-zeroes/description/) / [力扣](https://leetcode-cn.com/problems/move-zeroes/description/)
 
