@@ -44,6 +44,8 @@ public void moveZeroes(int[] nums) {
     }
 }
 ```
+Use Case: Sparse Data in Arrays
+Imagine you are working with sensor readings collected in real time. Some readings might be 0 because the sensor didn’t detect anything. You want to process only the actual measurements efficiently while keeping the dataset size the same.
 
 - Graph
 - Bit Manipulation
@@ -52,29 +54,3 @@ public void moveZeroes(int[] nums) {
 
 
 
-# markdown template
-
-## Section 1: Introduction
-
-This is an introductory paragraph. Markdown allows for easy formatting of text.
-
--   **Bold Text**: Use double asterisks or underscores, e.g., `**bold**` or `__bold__`.
--   *Italic Text*: Use single asterisks or underscores, e.g., `*italic*` or `_italic_`.
--   `Monospace Text`: Use backticks for inline code, e.g., `` `code` ``.
-
-## Section 2: Key Information
-
-### Sub-section A: Lists
-
-1.  Ordered list item 1
-2.  Ordered list item 2
-    -   Nested unordered list item
-    -   Another nested item
-
-### Sub-section B: Code Example
-
-```python
-def hello_world():
-    print("Hello, Markdown!")
-
-hello_world()
