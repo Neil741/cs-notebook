@@ -1,6 +1,6 @@
 # leetcode solution ithome
 
-## Section 1: Learn Algorithms from LeetCode
+### Section 1: Learn Algorithms from LeetCode
 
 The program primarily focuses on easy questions, with a small number of medium questions interspersed. The questions are accompanied by problem analysis and algorithmic explanations.
 The programming languages used for solving the problems are primarily Java and Python, but the concepts are generally consistent.
